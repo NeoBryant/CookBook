@@ -13,7 +13,7 @@ body {
 .headline {
 	font-size: 22pt;
 	font-weight: bold;
-	font-family: Futura;
+	font-family: Futura, "Century Gothic", Verdana, Sans-serif;
 	letter-spacing: 0.2em;
 	color:#A4A400; 
 	background: #F0F0F0;
@@ -33,7 +33,7 @@ body {
 .word {
 	color: #404040;
 	font-size: 11pt;
-	font-family: Georgia;
+	font-family: Georgia, Garamond, serif;
 }
 
 .quote {
