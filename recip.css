@@ -1,0 +1,50 @@
+/*
+recip.css
+
+Created by 彭靖寒 on 2017/9/14
+Copyright © 2017年 彭靖寒. All rights reserved.
+*/
+body {
+	background-image: url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
+	background-repeat: repeat;
+	background-attachment:fixed
+}
+
+.headline {
+	font-size: 22pt;
+	font-weight: bold;
+	font-family: Futura;
+	letter-spacing: 0.2em;
+	color:#A4A400; 
+	background: #F0F0F0;
+	text-decoration:underline;
+	text-align: center;
+}
+
+.subtitle {
+	font-size: 18pt;
+	color:#A4A400; 
+	letter-spacing: 0.2em;
+	background: #F0F0F0;
+	text-decoration:underline;
+	text-align: left;
+}
+
+.word {
+	color: #404040;
+	font-size: 11pt;
+	font-family: Georgia;
+}
+
+.quote {
+	font-style: italic;
+	background-color: #FFFFC8;
+}
+
+.link {
+	color: #A4A400;
+}
+
+ul {
+	list-style-image:url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif")
+}
